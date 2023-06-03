@@ -4,7 +4,7 @@
  - maven 
  - TestNG
  - PoM
- - Data Driven such 
+ - Data Driven 
  - Extent Report
  - Jenkins Pipeline
 # For Video Recording
