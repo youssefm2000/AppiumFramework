@@ -1,4 +1,4 @@
-# GeneralStore_AppiumFramework
+# Appium-Framework
  - Appium
  - java 
  - maven 
